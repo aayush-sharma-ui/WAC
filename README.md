@@ -1,7 +1,7 @@
 ```markdown
 # WAC - WiFi Admin Cracker
 
-> Router security assessment tool
+> The most powerful and complete WiFi admin panel cracking tool available
 
 ## Quick Start
 ```bash
@@ -10,13 +10,13 @@ python wac_cracker.py
 ```
 
 ## What It Does
-- Cracks WiFi admin panels using default credentials
+- Cracks WiFi router admin panels using the largest default credentials database
 - Auto-detects login forms
-- Multi-threaded for speed
+- Multi-threaded for maximum speed
 
 ## Files Needed
-- `user.txt` - usernames list  
-- `pswrd.txt` - passwords list
+- `user.txt` - 1000+ default usernames  
+- `pswrd.txt` - 1000+ default passwords
 
 ## Usage
 1. Run the script
